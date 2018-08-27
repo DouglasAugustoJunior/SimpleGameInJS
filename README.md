@@ -8,6 +8,8 @@
  
 O **Game em JS** é um projeto simples que utilizei para inciar meus conhecimentos em JS.
 
+![Imagem](https://github.com/DouglasAugustoJunior/SimpleGameInJS/blob/master/images/Game.PNG?raw=true)
+
 
  
 Desenvolvido em HTML5,CSS3 e JS, ele traz diversas situações interessantes para utilizar diversos recursos.
