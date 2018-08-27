@@ -12,10 +12,31 @@
                 left: 0px;
                 right: 0px;
                 margin: auto;
+            }body{
+                /*background: 
+                linear-gradient(63deg, #47d147 23%, transparent 23%) 7px 0, 
+                linear-gradient(63deg, transparent 74%, #47d147 78%), 
+                linear-gradient(63deg, transparent 34%, #47d147 38%, #47d147 58%, transparent 62%), 
+                #cccc00;
+                background-size: 16px 48px;*/
+                background-color: darkolivegreen;
+                background-image: linear-gradient(transparent 50%, rgba(255,255,255,.5) 50%);
+                background-size: 50px 50px;
+            }h3{
+                color: red;
+                font-size: 29pt;
+            }footer{
+                position: absolute;
+                bottom: 0px;
+                right: 10px;
+                font-size: 16pt;
+                font-weight: bold;
             }
+                
         </style>
     </head>
     <body>
+        <h3>MY GAME:</h3>
         <script>
             //Variáveis gerais do game
             var canvas,ctx,HEIGHT, WIDTH, frames = 0,maxPulos = 3,velocidade=6,estadoAtual,record,img,ptsNovafase=[5,10,15,20,25,35,45],
@@ -325,5 +346,6 @@
             //inicia o game
             main();
         </script>
+        <footer>Douglas Augusto</footer>
     </body>
 </html>
