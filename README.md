@@ -6,7 +6,7 @@
  
 ![LINGUAGEM FINALIDADE](https://img.shields.io/badge/JavaScript-game-orange.svg)
  
-O **Game em JS** é um projeto simples que utilizei para inciar meus conhecimentos em JS.
+O **Game em JS** é um projeto simples que utilizei para iniciar meus conhecimentos em JS.
 
 ![Imagem](https://github.com/DouglasAugustoJunior/SimpleGameInJS/blob/master/images/Game.PNG?raw=true)
 
@@ -16,9 +16,9 @@ Desenvolvido em HTML5,CSS3 e JS, ele traz diversas situações interessantes par
  
 ## Interação com o usuário
  
-O evento do clique, aciona as funções de pulo e play do jogo:    ``    enter code here
+O evento do clique, aciona as funções de pulo e play do jogo:
 
-function click(event){}
+`function click(event){}`
 
  
 
