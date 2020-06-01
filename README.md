@@ -6,13 +6,14 @@
  
 ![LINGUAGEM FINALIDADE](https://img.shields.io/badge/JavaScript-game-orange.svg)
  
-O **Game em JS** é um projeto simples que utilizei para iniciar meus conhecimentos em JS.
+O **Game em JS** é um projeto simples que utilizei para iniciar meus conhecimentos em JS. **[Projeto Online](https://douglasaugustojunior.github.io/SimpleGameInJS/)**
 
 ![Imagem](https://github.com/DouglasAugustoJunior/SimpleGameInJS/blob/master/images/Game.PNG?raw=true)
 
 
  
 Desenvolvido em HTML5,CSS3 e JS, ele traz diversas situações interessantes para utilizar diversos recursos.
+
  
 ## Interação com o usuário
  
